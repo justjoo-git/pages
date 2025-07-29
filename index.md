@@ -1,5 +1,5 @@
 ---
-Title: The Justonic Dialogues 
-by Just 
+Title: "The Justonic Dialogues"
+author: "Just"
 ---
 
