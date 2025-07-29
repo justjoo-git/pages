@@ -1,6 +1,6 @@
 
 # The Justonic Dialogues 
 <br>
-### by Just 
+by Just 
 ---
 
