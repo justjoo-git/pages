@@ -1,4 +1,4 @@
 ---
-title: The Justonic Dialogues by Just
+title: "The Justonic Dialogues by Just"
 ---
 
