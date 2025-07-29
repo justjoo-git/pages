@@ -1,4 +1,5 @@
----
-title: "The Justonic Dialogues by Just"
+
+#The Justonic Dialogues 
+### by Just 
 ---
 
