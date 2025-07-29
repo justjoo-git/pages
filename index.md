@@ -1,4 +1,4 @@
-# title: The Justonic Dialogues 
+# The Justonic Dialogues 
 ### by Just
 ---
 
