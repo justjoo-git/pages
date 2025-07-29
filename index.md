@@ -1,6 +1,5 @@
-
-# The Justonic Dialogues 
-<br>
+---
+Title: The Justonic Dialogues 
 by Just 
 ---
 
