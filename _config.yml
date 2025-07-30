@@ -3,6 +3,8 @@ title: The Justonic Dialogues
 author: Just
 description: A personal and philosophical journey into our relationship with AI.
 
+google_analytics: G-MF4W8LNW81
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap 
